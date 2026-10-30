@@ -1,0 +1,11 @@
+{
+  "courses": [
+    { "name": "Mathematics", "day": "Monday", "start": "08:00", "end": "10:00" },
+    { "name": "Physics", "day": "Monday", "start": "09:30", "end": "11:00" },
+    { "name": "Programming", "day": "Monday", "start": "11:00", "end": "12:30" },
+    { "name": "Database Systems", "day": "Tuesday", "start": "09:00", "end": "11:00" },
+    { "name": "Computer Networks", "day": "Wednesday", "start": "10:00", "end": "12:00" },
+    { "name": "Software Engineering", "day": "Thursday", "start": "08:00", "end": "10:00" },
+    { "name": "Web Development", "day": "Friday", "start": "13:00", "end": "15:00" }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59420821988",
+    "project_id": "classync-2617e",
+    "storage_bucket": "classync-2617e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59420821988:android:2a2743eed7c8f044375ff1",
+        "android_client_info": {
+          "package_name": "com.example.classync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEyVohFHykz-pSQzQGCRGN5Sia5nSyhhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
